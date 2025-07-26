@@ -1,0 +1,30 @@
+Nome Poço ANP;Nome Poço Operador;Bloco;Bacia;Campo;Contrato;Operador;Início Perfuração;Lâmina d'água (m);Latitude;Longitude;Objetivo da Intervenção;Sonda;Terra ou Mar
+1-BGM-6-ES          ;1-AJR-1-ES          ;ES-T-506  ;Espírito Santo;PA-1-BGM-6-ES_ES-T-506_R11;48610005466201372             ;BGM;18/08/2022;0;"	-19:18:19,427 ";"	-39:50:00,328 ";TLD;Cowan-02;TERRA
+1-BP-13-SPS         ;1BP13               ;BUMERANGUE;Santos;;48610232917202233             ;BP Energy;25/05/2025;2372,7;"	-26:29:34,530 ";"	-43:27:53,400 ";Perfuração;Valaris Renaissance;MAR
+1-BRSA-1401DA-RJS   ;1-RJS-763DA         ;ÁGUA-MARIN;Campos;;48610232915202244             ;Petrobras;11/07/2025;2601;"	-22:51:52,333 ";"	-40:01:31,683 ";Perfuração;DEEPWATER AQUILA;MAR
+1-GPK-4D-BA         ;1-PRC-1D-BA         ;REC-T-128 ;Recôncavo;TIRIBA;48610010821201597             ;Slim Drilling;12/12/2018;0;"	-12:16:15,339 ";"	-38:19:48,945 ";Restauração;BCH Energy 5;TERRA
+1-GREN-1D-BA        ;1-GE-0001-BA        ;REC-T-108 ;Recôncavo;PA-1GREN1DBA_REC-T-108;48610010812201504             ;Vultur Oil;21/12/2018;0;"	-12:11:06,979 ";"	-38:10:58,999 ";TLD;GREAT - 128;TERRA
+1-MPE-1-BA          ;1MPE1BA             ;BT-REC-3  ;Recôncavo;UIRAPURU;486100038992000               ;Petrosynergy;13/05/2003;0;"	-12:19:32,320 ";"	-38:24:45,642 ";Restauração;SONDA PIONEIRA BRASIL;TERRA
+3-AR-4-BA           ;3AR  0004  BA       ;AR        ;Recôncavo;ARAÇÁS;480000036319795               ;Petrobras;11/08/1965;;"	-12:08:22,096 ";"	-38:09:42,803 ";Abandono;SONDA CONVENCIONAL 25;TERRA
+3-BRSA-1097-RN      ;3CS3RN              ;POT-T-609 ;Potiguar;MAÇARICO;48610001502200942             ;PetroRecôncavo;28/07/2012;0;"	-05:20:13,457 ";"	-37:11:32,274 ";Completação;SONDA CONVENCIONAL 95;TERRA
+3-BRSA-1177D-BA     ;3TQ210DBA           ;;Recôncavo;TAQUIPE;480000037009714               ;Petrobras;21/05/2013;0;"	-12:26:40,780 ";"	-38:27:55,500 ";Restauração;SONDA CONVENCIONAL 108;TERRA
+3-BRSA-1320-RN      ;3ARG900RN           ;;Potiguar;ALTO DO RODRIGUES;480000037849704               ;3R Potiguar;21/09/2015;0;"	-05:18:32,467 ";"	-36:41:38,554 ";Completação;SONDA CONVENCIONAL 86;TERRA
+3-BRSA-1398-RJS     ;3-RJS-762           ;ALTO_CF_CE;Campos;;48610012962201714             ;Petrobras;24/02/2025;2276;"	-23:59:07,975 ";"	-41:01:28,216 ";Perfuração;WEST POLARIS;MAR
+3-BRSA-1399-SPS     ;3-SPS-113           ;ARAM      ;Santos;;48610220938201919             ;Petrobras;24/05/2025;1866;"	-25:40:27,438 ";"	-44:41:52,258 ";Perfuração;Valaris DS-4;MAR
+3-BRSA-1400A-SPS    ;3-SPS-114A          ;ARAM      ;Santos;;48610220938201919             ;Petrobras;14/07/2025;1834;"	-25:34:57,883 ";"	-44:39:03,610 ";Perfuração;West Auriga;MAR
+3-BRSA-1400-SPS     ;3-SPS-114           ;ARAM      ;Santos;;48610220938201919             ;Petrobras;20/06/2025;1834;"	-25:34:57,883 ";"	-44:39:03,610 ";Perfuração;West Auriga;MAR
+3-MDU-5-BA          ;3MDU 0005  BA       ;AR        ;Recôncavo;ARAÇÁS;480000036319795               ;Petrobras;16/03/1983;;"	-12:10:12,629 ";"	-38:08:23,973 ";Restauração;;TERRA
+3-MGP-4-BA          ;3MGP 0004  BA       ;MG        ;Recôncavo;MIRANGA;480000036739735               ;PetroRecôncavo;29/03/1985;;"	-12:20:53,147 ";"	-38:10:40,486 ";Restauração;;TERRA
+3-ORGM-16D-AL       ;3-ORGM-16D-AL       ;;Alagoas;PILAR;480000038599701               ;Origem Alagoas;19/07/2025;0;"	-09:37:20,631 ";"	-35:54:31,327 ";Perfuração;PETROWORKS 163;TERRA
+3-ORGM-3D-AL        ;3-ORGM-3D-AL        ;;Alagoas;PILAR;480000038599701               ;Origem Alagoas;17/05/2025;0;"	-09:38:29,700 ";"	-35:53:21,800 ";Perfuração;National Oilwell Varco - 750;TERRA
+3-ORGM-3D-AL        ;3-ORGM-3D-AL        ;;Alagoas;PILAR;480000038599701               ;Origem Alagoas;17/05/2025;0;"	-09:38:29,700 ";"	-35:53:21,800 ";Perfuração;FAXE-2;TERRA
+3-ORGM-5DP-AL       ;3-ORGM-5DP-AL       ;;Alagoas;PILAR;480000038599701               ;Origem Alagoas;14/02/2025;0;"	-09:37:39,231 ";"	-35:53:33,143 ";Completação;National Oilwell Varco - 750;TERRA
+3-RFQ-13D-RN        ;3RFQ 0013D RN       ;RFQ       ;Potiguar;RIACHO DA FORQUILHA;480000038219721               ;PetroRecôncavo;29/07/1994;;"	-05:27:09,282 ";"	-37:42:50,240 ";Completação;SONDA CONVENCIONAL 106;TERRA
+3-RI-4-BA           ;3RI  0004  BA       ;RI        ;Recôncavo;RIO ITARIRI;480000036889711               ;Petrobras;18/03/1986;;"	-11:50:20,934 ";"	-37:49:12,346 ";Restauração;;TERRA
+3-RSM-7-ES          ;3RSM 0007  ES       ;CCNS      ;Espírito Santo;SÃO MATEUS LESTE;48610009188200512A            ;Seacrest SPE Cricaré;30/10/1980;0;"	-18:44:20,597 ";"	-39:50:09,146 ";Completação;SONDA CONVENCIONAL 83;TERRA
+3-SE-3-RN           ;3SE  0003  RN       ;SE        ;Potiguar;SERRARIA;480000038309711               ;3R Potiguar;25/08/1983;;"	-05:16:33,575 ";"	-37:00:42,611 ";Restauração;SONDA CONVENCIONAL 82;TERRA
+3-SMC-6-AL          ;3SMC 0006  AL       ;FU        ;Alagoas;FURADO;480000038549780               ;Origem Alagoas;27/12/1973;0;"	-09:50:46,104 ";"	-36:06:04,444 ";Completação;SONDA CONVENCIONAL 40;TERRA
+4-BRSA-1402-RJS     ;4-RJS-764           ;ALTO_CF_CE;Campos;;48610012962201714             ;Petrobras;22/07/2025;2524;"	-24:00:08,985 ";"	-40:48:41,040 ";Perfuração;WEST POLARIS;MAR
+4-CAC-16-RN         ;4CAC 0016  RN       ;CAC       ;Potiguar;CACHOEIRINHA;480000037919761               ;PetroRecôncavo;04/12/1993;;"	-05:36:04,350 ";"	-37:28:05,657 ";Completação;SONDA CONVENCIONAL 82;TERRA
+6-CA-10-BA          ;6CA  0010  BA       ;CA_OP     ;Recôncavo;Camaçari;48610222006201901             ;Creative Energy;02/08/1994;0;"	-12:42:33,282 ";"	-38:23:18,985 ";Avaliação;SONDA CONVENCIONAL 105;TERRA
+9-BUZ-103D-RJS      ;9-BUZ-103D-RJS      ;;Santos;BÚZIOS_ECO;48610220924201997             ;Petrobras;15/07/2025;1700;"	-24:32:06,649 ";"	-42:32:30,079 ";Perfuração;ATLANTIC ZONDA;MAR
